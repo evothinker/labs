@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\contrmodview.Form1.resources
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\contrmodview.Properties.Resources.resources
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\MVCTest.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\bin\Release\contrmodview.exe
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\bin\Release\contrmodview.pdb
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\contrmodview.exe
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\contrmodview.pdb
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\bin\Release\contrmodview.exe.manifest
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\bin\Release\contrmodview.application
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\contrmodview.TrustInfo.xml
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\contrmodview.exe.manifest
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\MVCTest\obj\x86\Release\contrmodview.application

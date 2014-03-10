@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\bin\Debug\contrmodview.exe.manifest
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\bin\Debug\contrmodview.application
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\bin\Debug\contrmodview.exe
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\bin\Debug\contrmodview.pdb
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\obj\x86\Debug\contrmodview.Form1.resources
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\obj\x86\Debug\contrmodview.Properties.Resources.resources
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\obj\x86\Debug\contrmodview.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\obj\x86\Debug\contrmodview.TrustInfo.xml
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\obj\x86\Debug\contrmodview.exe.manifest
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\obj\x86\Debug\contrmodview.application
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\obj\x86\Debug\contrmodview.exe
+C:\Users\Admin\Downloads\MVCTest_Source\MVCTest\contrmodview\obj\x86\Debug\contrmodview.pdb
+C:\Users\Admin\Documents\contrmodview\obj\x86\Debug\contrmodview.exe
+C:\Users\Admin\Documents\contrmodview\obj\x86\Debug\contrmodview.pdb
